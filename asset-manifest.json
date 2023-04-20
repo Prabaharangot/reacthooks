@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reacthooks/static/css/main.e6c13ad2.css",
+    "main.js": "/reacthooks/static/js/main.c1d52bbb.js",
+    "index.html": "/reacthooks/index.html",
+    "main.e6c13ad2.css.map": "/reacthooks/static/css/main.e6c13ad2.css.map",
+    "main.c1d52bbb.js.map": "/reacthooks/static/js/main.c1d52bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c1d52bbb.js"
+  ]
+}
